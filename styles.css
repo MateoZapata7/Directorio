@@ -1,0 +1,25 @@
+body {
+    background-color: #eee;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.mb-right {
+    margin-right: 5px; /* espacio a la derecha*/
+}
+
+.bg-dark {
+    background-color: #abce4a !important;
+}
+
+.btn {
+    border-radius: 0%;
+}
+
+.form-control {
+    border-radius: 0%;
+}
